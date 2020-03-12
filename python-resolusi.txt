@@ -1,0 +1,3 @@
+- Membuat program dengan python
+- Melatih algoritma menggunakan python
+- 
