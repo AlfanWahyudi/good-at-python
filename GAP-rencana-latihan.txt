@@ -3,6 +3,8 @@ rencana latihan GAP
 - cobaan weh 
   * asli
   * coba
-- struktur data dasar 
+    ^ masuk
+    ^ rajin
 - latihan sing rajin
+  ^ nothing
 - jagokeun algoritma
