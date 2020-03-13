@@ -7,5 +7,6 @@ rencana latihan GAP
     ^framework
 - struktur data dasar 
 - latihan sing rajin
+  ^ nothing
 - jagokeun algoritma
 - oke lah
