@@ -4,6 +4,7 @@ rencana latihan GAP
   * asli
   * coba
     ^library
+    ^framework
 - struktur data dasar 
 - latihan sing rajin
 - jagokeun algoritma
